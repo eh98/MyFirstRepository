@@ -1,3 +1,3 @@
 # MyFirstRepository
 
-Hello. My Name Is EunHee Kim.
+Hello. My Name Is Eunhee Kim.
