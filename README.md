@@ -1,2 +1,3 @@
 # MyFirstRepository
-Tutorial Repository
+
+Hello. My Name Is EunHee Kim.
